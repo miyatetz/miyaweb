@@ -56,7 +56,7 @@ jobs:
     environment:
       name: github-pages
       #url: ${{ steps.deployment.outputs.page_url }}
-      url: https://miyatetz.io
+      url: https://miyatetz.github.io
     runs-on: ubuntu-latest
     needs: build
     steps:
