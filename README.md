@@ -62,4 +62,4 @@ categories: Test
 ### Jekyll on Windowsでの確認
 GitHub上でちゃんと動かない場合、JekyllをWindowsで動作させることで問題を特定できる場合があります。
 
-
+このリポジトリを自分の端末にクローンして試してください。
