@@ -1,6 +1,6 @@
 ---
 layout: page
-title: # 宇都宮大学鉄道研究会（みやてつ）とは
+title: # 宇都宮大学鉄道会とは
 permalink: /about/
 ---
 
