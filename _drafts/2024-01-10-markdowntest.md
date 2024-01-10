@@ -8,3 +8,5 @@ categories: Test
 ### 個人的にロゴを描いた
 - 鉄道に少し興味があって鉄研に入った僕ですが、ロゴを作りたくなったのでGIMPで作りました。
 ![TrainClubLogo](../aseets/2023/TrainCircleLogo_Rosenzu.png)
+4号館5階と書いてありますが、これは2023年の学祭のことです。
+路線図を意識して書いたものです。
