@@ -7,3 +7,6 @@ categories: Test
 
 ここではマークダウンで記事を書く上で必要なルールを書いておきます。
 なお詳しい使い方は[GitHub Docs](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)を参照してください。
+
+
+![Test Image 1](aseets/2023/LINE_ALBUM_2023 _231228_1.jpg)
