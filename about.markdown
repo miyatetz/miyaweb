@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ＃ 当会の概要
+title: ＃　当会の概要
 permalink: /about/
 ---
 
