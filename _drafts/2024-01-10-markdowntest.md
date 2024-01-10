@@ -7,4 +7,4 @@ categories: Test
 
 ### 個人的にロゴを描いた
 - 鉄道に少し興味があって鉄研に入った僕ですが、ロゴを作りたくなったのでGIMPで作りました。
-![TrainClubLogo](assets/2023/TrainCircleLogo_Rosenzu.png)
+![TrainClubLogo](./assets/2023/TrainCircleLogo_Rosenzu.png)
