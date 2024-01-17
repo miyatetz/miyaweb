@@ -13,4 +13,4 @@ categories: Test
 
 この先充実させてまいりますのでよろしくお願いします。
 
-![LRTimage](/aseets/2023/LINE_ALBUM_202312_240111_1.jpg)
+![LRTimage]({{site.baseurl}}/aseets/2023/LINE_ALBUM_202312_240111_1.jpg)
