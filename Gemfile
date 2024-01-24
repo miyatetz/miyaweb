@@ -37,4 +37,4 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 #gem "github-pages", "~>215", group: :jekyll_plugins
 
 
-#gem "jekyll-remote-theme", "~> 0.4.3"
+gem "jekyll-remote-theme", "~> 0.4.3"
