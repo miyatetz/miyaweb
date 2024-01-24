@@ -34,7 +34,7 @@ theme: minima
 #remote_theme: jekyll/minima
 # theme: jekyll-theme-quartz
 plugins:
-  #- jekyll-remote-theme
+  - jekyll-remote-theme
   - jekyll-feed
 
 
