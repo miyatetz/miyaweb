@@ -34,7 +34,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
-gem "github-pages", "~>215", group: :jekyll_plugins
+#gem "github-pages", "~>215", group: :jekyll_plugins
 
 
 gem "jekyll-remote-theme", "~> 0.4.3"
