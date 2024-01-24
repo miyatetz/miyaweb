@@ -30,12 +30,14 @@ twitter_username: MiyanoTekken
 github_username:  miyatetz
 
 # Build settings
-#theme: minima
+theme: minima
 remote_theme: jekyll/minima
 # theme: jekyll-theme-quartz
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
