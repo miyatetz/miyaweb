@@ -9,3 +9,4 @@ layout: home
 宇都宮大学鉄道研究会のホームページです。
 ![Test Image 1](aseets/2023/LINE_ALBUM_2023_231228_1.jpg)
 
+{% include head.html %}
