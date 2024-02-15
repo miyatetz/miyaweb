@@ -19,6 +19,7 @@ categories: Introduce
 
 鉄道以外では技術系全般が好きです。
 
-実はこのサイトも自分で立ち上げました！サイトの中身はGitHubにおいてあるので是非ご覧ください。
+実はこのサイトも自分で立ち上げました！JekyllとGitHubPagesを利用してマークダウンで記事を書くことができます。
+サイトの中身は[GitHub](https://github.com/miyatetz/miyaweb?tab=readme-ov-file)においてあるので是非ご覧ください。
 
 
