@@ -13,7 +13,7 @@ categories: Blog
 たわいもないブログなので軽く流してもらって('ω')ノ
 
 ## 1. ゲーム「14 Minesweeper Variants」
-![14Mineタイトル]({{site.baseurl}}/aseets/2023/minesweeper_variants_14.png)
+![14Mineタイトル](/aseets/2023/minesweeper_variants_14.png)
 <br>鉄研ブログなのにゲームかい！というツッコミは歓迎です。
 <br>何より、私K.H、鉄研部員なのにメインの趣味は鉄道ではない。
 <br>ところでこのゲームですが、windowsお馴染み**マインスイーパー**改造版
@@ -23,7 +23,7 @@ categories: Blog
 <br>難しすぎて**頭爆発**＼(＾o＾)／する。
 
 ## 2. アニメ「宇宙兄弟」
-![宇宙兄弟]({{site.baseurl}}/aseets/2023/space_brothers.jpg)
+![宇宙兄弟](/aseets/2023/space_brothers.jpg)
 <br>**宇宙飛行士青春アニメ**です。
 <br>日々人(ひびと)とムッタという兄弟はUFOを見て、宇宙飛行士を夢見る。
 <br>面白いのは、序盤には弟の日々人が先に宇宙飛行士になっているというところから始まることです。
