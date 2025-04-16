@@ -34,6 +34,19 @@ categories: Test
 
 くわしくは[マークダウンチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)を参照してください。
 
+マークダウン編集には、
+
+[Visual Studio Code](https://code.visualstudio.com/)というテキスト編集ソフトの
+
+拡張機能 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)の使用をお勧めします。
+
+Wordの要領でマークダウンの編集が可能になります。
+
+詳しい導入方法については
+
+[Visual Studio Codeのダウンロードとインストール](https://www.javadrive.jp/vscode/install/index1.html)および
+[Markdown All in Oneの導入](https://zenn.dev/ctrlkeykoyubi/articles/vscode-markdown-all-in-one)をご覧ください。
+
 ### 画像の追加について
 画像などを追加する場合は`assets`フォルダ内に追加してそのパスを指定してください。
 ```
