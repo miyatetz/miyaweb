@@ -47,6 +47,20 @@ Wordの要領でマークダウンの編集が可能になります。
 [Visual Studio Codeのダウンロードとインストール](https://www.javadrive.jp/vscode/install/index1.html)および
 [Markdown All in Oneの導入](https://zenn.dev/ctrlkeykoyubi/articles/vscode-markdown-all-in-one)をご覧ください。
 
+導入後の操作方法（ショートカット）
+| キー              | 説明                                                                 |
+|------------------|----------------------------------------------------------------------|
+| Ctrl + B         | 選択した文字の太字にする   |
+| Ctrl + I         | 選択した文字を斜体にする                                              |
+| Ctrl + Shift + ] | 見出しレベルを上げる                                                 |
+| Ctrl + Shift + [ | 見出しレベルを下げる                                                 |
+| Ctrl + M         | 数式入力の文字入れる                                          |
+| Alt + C          | チェックリストのオンオフ                                             |
+| Ctrl + Shift + V | プレビューのオンオフ             |
+| Ctrl + K → V     | エディタの横にプレビュー。      |
+| Ctrl + Z         | 操作を1つ取り消す（Undo）                                           |
+
+
 ### 画像の追加について
 画像などを追加する場合は`assets`フォルダ内に追加してそのパスを指定してください。
 ```
