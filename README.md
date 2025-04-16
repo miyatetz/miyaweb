@@ -34,7 +34,7 @@ categories: Test
 
 くわしくは[マークダウンチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)を参照してください。
 
-### 便利な編集方法
+### 便利な編集方法 | よく分からない方は上記の方法で
 
 マークダウン編集には、
 [Visual Studio Code](https://code.visualstudio.com/)というテキスト編集ソフトの
