@@ -34,10 +34,10 @@ categories: Test
 
 くわしくは[マークダウンチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)を参照してください。
 
+### 便利な編集方法
+
 マークダウン編集には、
-
 [Visual Studio Code](https://code.visualstudio.com/)というテキスト編集ソフトの
-
 拡張機能 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)の使用をお勧めします。
 
 Wordの要領でマークダウンの編集が可能になります。
