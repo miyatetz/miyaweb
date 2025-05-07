@@ -38,32 +38,18 @@ categories: Test
 
 くわしくは[マークダウンチートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)を参照してください。
 
-### 便利な編集方法 | よく分からない方は上記の方法で
+### おすすめアプリ・ソフト
+Obsidianというソフトがお勧めです。スマホ(Android, iOS)とパソコン(Windows,Mac)に対応。
 
-マークダウン編集には、
-[Visual Studio Code](https://code.visualstudio.com/)というテキスト編集ソフトの
-拡張機能 [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)の使用をお勧めします。
+直感的な操作でマークダウンの編集が可能です。導入も簡単で非常に便利です。
 
-Wordの要領でマークダウンの編集が可能になります。
+以下のサイトからダウンロードできます。
 
-詳しい導入方法については
+Obsidianのダウンロードページ
+https://obsidian.md/download
+にアクセスするか、
 
-[Visual Studio Codeのダウンロードとインストール](https://www.javadrive.jp/vscode/install/index1.html)および
-[Markdown All in Oneの導入](https://zenn.dev/ctrlkeykoyubi/articles/vscode-markdown-all-in-one)をご覧ください。
-
-導入後の操作方法（ショートカット）
-| キー              | 説明                                                                 |
-|------------------|----------------------------------------------------------------------|
-| Ctrl + B         | 選択した文字の太字にする   |
-| Ctrl + I         | 選択した文字を斜体にする                                              |
-| Ctrl + Shift + ] | 見出しレベルを上げる                                                 |
-| Ctrl + Shift + [ | 見出しレベルを下げる                                                 |
-| Ctrl + M         | 数式入力の文字入れる                                          |
-| Alt + C          | チェックリストのオンオフ                                             |
-| Ctrl + Shift + V | プレビューのオンオフ             |
-| Ctrl + K → V     | エディタの横にプレビュー。      |
-| Ctrl + Z         | 操作を1つ取り消す（Undo）                                           |
-
+「```オブシディアン ダウンロード```」と検索してください。
 
 ### 画像の追加について
 画像などを追加する場合は`assets`フォルダ内に追加してそのパスを指定してください。
