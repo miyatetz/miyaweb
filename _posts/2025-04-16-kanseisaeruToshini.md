@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "完成させる年にする"
+title:  "完成させる年にする by K.H."
 date:   2025-04-16 17:00:00 +0900
 categories: blog
 ---
