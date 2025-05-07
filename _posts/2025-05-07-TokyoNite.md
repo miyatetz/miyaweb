@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "東京にて"
+title:  "東京にて by K.H."
 date:   2025-05-07 19:00:00 +0900
 categories: blog
 ---
