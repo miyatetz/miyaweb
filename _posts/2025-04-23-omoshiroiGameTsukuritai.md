@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "面白いゲームを作りたい"
+title:  "面白いゲームを作りたい by K.H."
 date:   2025-04-23 18:00:00 +0900
 categories: blog
 ---
