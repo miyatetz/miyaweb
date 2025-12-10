@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "学祭を終えて by K.H"
-date:   2025-12-10 19:00:00 +0900
+date:   2025-12-10 18:51:00 +0900
 categories: blog
 ---
 
