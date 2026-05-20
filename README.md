@@ -13,6 +13,8 @@ JekyllとGitHub Pagesを利用しています。
 
 まずは.md形式のファイルを`_drafts`フォルダ内に作成してください。
 
+![キャプション]({{site.baseurl}}/assets/2026/website_tutorial02.png)
+
 その際、名前は「`2025-04-20-titlename.md`」のようにすると整理しやすいです。
 
 ### 追記
