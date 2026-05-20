@@ -12,8 +12,9 @@ JekyllとGitHub Pagesを利用しています。
 マークダウン方式で書くことで記事を追加出来ます。
 
 まずは.md形式のファイルを`_drafts`フォルダ内に作成してください。
+以下の図の赤枠の位置です。
 
-![キャプション](https://github.com/user-attachments/assets/8170ac95-6f3e-41dd-bf9e-0c14a47cdde9)
+![図1](https://github.com/user-attachments/assets/8170ac95-6f3e-41dd-bf9e-0c14a47cdde9)
 
 その際、名前は「`2025-04-20-titlename.md`」のようにすると整理しやすいです。
 
