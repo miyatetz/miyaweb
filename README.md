@@ -27,7 +27,7 @@ JekyllとGitHub Pagesを利用しています。
 layout: post
 title:  "記事のタイトル"
 date:   YYYY-MM-DD 22:00:00 +0900
-categories: Test
+categories: blog
 ---
 ```
 `categories`は「blog」などと記述してください
