@@ -14,7 +14,7 @@ JekyllとGitHub Pagesを利用しています。
 # ライター追加の仕方
 ライターを追加したい場合は次の手順に従ってください。
 
-![図](https://github.com/miyatetz/miyaweb/issues/2#issue-4531761121)
+![図](https://github.com/user-attachments/assets/07d37a64-946c-4a82-8eae-4fc7aa146872)
 
 # 記事の書き方
 ## 記事を作る
