@@ -19,6 +19,10 @@ JekyllとGitHub Pagesを利用しています。
 ![図](https://github.com/user-attachments/assets/0c88ae31-2abb-421e-94fa-10d9a01c079e)
 ![image](https://github.com/user-attachments/assets/164ee542-32a4-47fa-858d-cb1b1d29f5a4)
 
+すると検索欄が出てくるので、追加したい人のユーザー名を入力して、出てきたらクリック。
+
+Adminというのにチェックをつけて、追加完了です。
+
 # 記事の書き方
 ## 記事を作る
 マークダウン方式で書くことで記事を追加出来ます。
