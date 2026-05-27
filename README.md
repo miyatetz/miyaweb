@@ -16,6 +16,8 @@ JekyllとGitHub Pagesを利用しています。
 
 ![図](https://github.com/user-attachments/assets/07d37a64-946c-4a82-8eae-4fc7aa146872)
 
+![図](https://github.com/user-attachments/assets/220c1cc8-d02f-41f6-b827-3077240ba84a)
+
 # 記事の書き方
 ## 記事を作る
 マークダウン方式で書くことで記事を追加出来ます。
