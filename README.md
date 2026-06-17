@@ -44,7 +44,7 @@ Adminというのにチェックをつけて、追加完了です。
 その際、名前は「`2025-04-20-titlename.md`」のようにすると整理しやすいです。
 ![fileName](https://github.com/user-attachments/assets/777b3f76-1297-474e-a058-1b67332d11c1)
 ---
-4. 
+4. 次に、ファイルの初めに以下の内容を記述します。(コピペできます）
 ```markdown
 ---
 layout: post
