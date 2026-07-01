@@ -41,6 +41,9 @@ Adminというのにチェックをつけて、追加完了です。
 ![CreateNewFile](https://github.com/user-attachments/assets/50f6c667-3980-490f-b6af-8faa6d4b3bd0)
 ---
 3. 上部の`Name your file…` につけたいファイル名をつけてください。
+
+最後には必ず`.md`をつけてください。
+
 その際、名前は「`2025-04-20-titlename.md`」のようにすると整理しやすいです。
 ![fileName](https://github.com/user-attachments/assets/777b3f76-1297-474e-a058-1b67332d11c1)
 ---
