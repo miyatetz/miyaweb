@@ -121,7 +121,12 @@ Markdownの主な書き方（詳しくは[こちら](https://gist.github.com/mig
 
 ![vscodeweb_02](https://github.com/user-attachments/assets/7e5968a0-c2ea-4e51-99e1-b60dbab17c74)
 
-5. 正しく移動したことを確認して、記事の投稿が完了します。
+5. 押すと、画像のようになるので、上の入力欄に適当な名前を付けて、下の「コミットとプッシュ」を押してください。
+
+注意書きのようなウィンドウが表示されたら「同期」の選択肢を選択してください。
+
+![vscodeweb_03](https://github.com/user-attachments/assets/c7c1eb9f-b9f2-4177-9e98-bbae0fd7e5ce)
+6. 正しく移動したことを確認して、記事の投稿が完了します。
 記事の公開のときに開いたタブは削除してかまいません。
 
 # 保守の仕方
